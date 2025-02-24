@@ -35,7 +35,7 @@ struct PageTemplate: Component {
             Div {
                 Link(url: "/") {
                     H1 {
-                        Span("Sail")
+                        Span("Sail ")
                         Span("Velvet Elvis").class("italic")
                     }
                 }
