@@ -26,9 +26,7 @@ body {
 /* Header styles */
 header {
     background-color: #000;
-    padding: 1.5rem 0;
     margin-bottom: 2rem;
-    margin-left: 13%;
 }
 
 header img {
@@ -40,6 +38,9 @@ header img {
 
 header h1 {
     color: #fff;
+    font-family: "Jacquard 24";
+    font-size:550%;
+    text-align: center
 }
 
 .site-name {
@@ -48,6 +49,7 @@ header h1 {
     text-decoration: none;
     font-family: "Helvetica Neue", Arial, sans-serif;
     font-weight: bold;
+    text-align: center;
 }
 
 .content img {

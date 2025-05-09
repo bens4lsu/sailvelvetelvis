@@ -18,7 +18,9 @@ extension SailVelvetElvisHTMLFactory {
         let rssFeedPath: Path? = .defaultForRSSFeed
         let rssFeedTitle: String? = nil
         let stylesheetPaths: [Path] = ["/style/lightview.css",
-                                       "/style/style2.css?v=\(EnvironmentKey.styleAndScriptVersion)",]
+                                       "/style/style2.css?v=\(EnvironmentKey.styleAndScriptVersion)",
+                                       "https://fonts.googleapis.com/css2?family=Jacquard+24&display=swap"
+        ]
         let scriptPaths: [Path] = ["https://code.jquery.com/jquery-3.7.0.min.js",
                                    "/scripts/lightview.js",]
         
