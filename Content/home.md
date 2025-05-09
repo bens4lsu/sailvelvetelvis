@@ -31,8 +31,8 @@ Book your sailing adventure today and discover New Orleans from a perspective fe
 Don't miss out on this extraordinary sailing experience. Reserve your charter today and prepare for an unforgettable journey on Lake Pontchartrain.
 
 ### Book Your Charter
-- **Phone:** ‪(504) 434-2717‬
-- **Email:** velvetelvis [at] sailvelvetelvis [dot] com
+- **Phone:** ‪(504) 507-8269
+- **Email:** captainben [at] sailvelvetelvis [dot] com
 
 Contact us now to check availability and customize your sailing adventure. Our team is ready to help you plan the perfect outing on the water.
 
